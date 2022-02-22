@@ -5,15 +5,15 @@ Our reproducibility package (data and scripts) for GA study (Our [MSR'22](https:
 ## Quantitative study
 ### Data
 #### Posts(the SO posts about GA)
--  
+- posts.xlsx
 #### Posts with categories
-- 
+- posts_category.xlsx
 #### Expertise
-- 
+- expert.xls
 #### Kendall
-- 
+- kendall.csv
 #### Summary(difficulty, popularity...)
-- 
+- summary.xlsx
 
 ### Models and Scripts
 - Post Collection: data.py
